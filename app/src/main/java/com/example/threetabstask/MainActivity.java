@@ -11,4 +11,31 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
 }
+
+/*
+*
+* sadasferqwd
+* fadf
+* asda
+* sdas
+* dasd
+* asda
+* sdasd
+* asdasd
+* asd
+* asd
+* asda
+* sd
+* asdqewed
+* casgvwr
+* sdf
+* we
+* fsdvc
+* ser
+* fscd
+* fdsf
+*
+*
+* */
